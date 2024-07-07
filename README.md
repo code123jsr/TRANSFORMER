@@ -1,4 +1,4 @@
-# TRANSFORMER INMPLEMENTATION FROM SCRATCH
+# TRANSFORMER IMPLEMENTATION FROM SCRATCH
 
 # File Structure
     - `transformer.py`: Consists of the encoder, decoder, and other improvisation methods.
